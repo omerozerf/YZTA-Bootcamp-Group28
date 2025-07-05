@@ -6,7 +6,7 @@
 
 ## Takım Logosu
 
-![Logo](/photos/gamelogo.png)
+![Logo](/photos/gamelogo.jpeg)
 
 ## Takım Elemanları
 
