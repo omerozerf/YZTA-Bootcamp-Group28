@@ -6,7 +6,7 @@
 
 ## Takım Logosu
 
-![Logo](https://github.com/user-attachments/assets/[TAKIM_LOGO_ID])
+![Logo](/photos/gamelogo.png)
 
 ## Takım Elemanları
 
@@ -73,23 +73,44 @@
 - **Sprint board update**:  
   ![Backlog](photos/sprint1/trello.png)  
 (05/07/2025 17:16)
-- **Ekran Görüntüleri**:  
-  (YUKLENECEK)  
+
+---
+
+### 📸 **Ekran Görüntüleri**
+
+#### 🔧 Temel Mekanik Kodları
+<div align="center">
+
+<img src="https://github.com/omerozerf/YZTA-Bootcamp-Group28/blob/main/photos/sprint1/code1.png?raw=true" width="600"/><br/>
+<i>Code1 - Kule yerleştirme mekanizması</i>
+
+<br/><br/>
+
+<img src="https://github.com/omerozerf/YZTA-Bootcamp-Group28/blob/main/photos/sprint1/code2.png?raw=true" width="600"/><br/>
+<i>Code2 - Düşman spawn sistemi</i>
+
+<br/><br/>
+
+<img src="https://github.com/omerozerf/YZTA-Bootcamp-Group28/blob/main/photos/sprint1/code3.png?raw=true" width="600"/><br/>
+<i>Code3 - Kule saldırı sistemi</i>
+
+</div>
+
+---
+
+#### 🎬 Oynanıştan Görüntü
+<div align="center">
+
+<img src="https://github.com/omerozerf/YZTA-Bootcamp-Group28/blob/main/photos/sprint1/scene.gif?raw=true" width="600"/><br/>
+<i>Unity sahnesinden canlı önizleme (GIF)</i>
+
+</div>
+
+---
+
 - **Sprint Review**:  
   - Takım olarak görevler başarılı şekilde tamamlandı. Konsept, görev dağılımı, temel mekaniğin yazılması ve Unity proje yapısı gibi kritik adımlar tamamlandı.  
 - **Sprint Retrospective**:  
   - Herkes rol süreci aktif bir şekilde yönetti hatta rollerimiz dışına çıkılarak ekstra görevler de yapıldı.  
   - Bir sonraki sprintte teknik detaylar (saldırı sistemleri, pathfinding vb.) öncelik olarak belirlendi.  
   - Ekip içinde iletişim güçlüydü ve görevler zamanında tamamlandı.
-
----
-
-## Sprint 2
-
-[...  ...]
-
----
-
-## Sprint 3
-
-[...  ...]
