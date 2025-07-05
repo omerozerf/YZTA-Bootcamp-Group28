@@ -72,6 +72,7 @@
 - **Daily Scrum**: Discord üzerinden her akşam 21:00’de gerçekleştirildi.  
 - **Sprint board update**:  
   ![Backlog](photos/sprint1/trello.png)  
+(05/07/2025 17:16)
 - **Ekran Görüntüleri**:  
   (YUKLENECEK)  
 - **Sprint Review**:  
