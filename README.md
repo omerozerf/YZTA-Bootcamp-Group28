@@ -61,18 +61,25 @@
 
 ## Sprint 1
 
-- **Sprint Notları**: [Açıklama]  
+- **Sprint Notları**: Sprint 1’de temel oyun fikri netleştirildi, görev dağılımı yapıldı ve oyunun iskeleti oluşturulmaya başlandı.  
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100  
-- **Puan tamamlama mantığı**: [Açıklama]  
-- **Backlog düzeni ve Story seçimleri**: [Kategori renkleri, görev tipleri vb.]  
-- **Daily Scrum**: [Discord / Slack vb. ve bağlantı]  
+- **Puan tamamlama mantığı**: Üç sprint'e eşit dağılacak şekilde her sprint için ortalama 100 puanlık iş planlandı.  
+- **Backlog düzeni ve Story seçimleri**:  
+  - 🎵 *Müzik & Ses Efekti Araştırması* - Backlog’da yer aldı.  
+  - 📝 *Trello & Miro Takibi* - To Do’ya alındı.  
+  - 🎮 *Oyun Konsepti ve Mekanik Fikirleri*, 🔍 *Asset Araştırması*, 📅 *Daily Scrum Planı* - In Progress durumunda işlendi.  
+  - 🧠 *Oyun Hikayesi Yazımı*, ✏️ *Karakter ve Ortam Tasarımı (Kağıt Üzerinde)*, ⚙️ *Unity Proje Yapısının Kurulması*, 🛡️ *Temel Kule Mekaniği*, 🧟 *Temel Düşman Hareketi*, ✅ *Task Dağılımı Planı* - Done listesine taşındı.  
+- **Daily Scrum**: Discord üzerinden her akşam 21:00’de gerçekleştirildi.  
 - **Sprint board update**:  
-  ![Backlog](https://github.com/user-attachments/assets/[SPRINT_BACKLOG_ID])  
+  ![Backlog](photos/sprint1/trello.png)  
 - **Ekran Görüntüleri**:  
-  ![SS1](https://github.com/user-attachments/assets/[SS1_ID])  
-  ![SS2](https://github.com/user-attachments/assets/[SS2_ID])  
-- **Sprint Review**: [Yorumlar, katılımcılar]  
-- **Sprint Retrospective**: [Görev dağılımı, kararlar]  
+  (YUKLENECEK)  
+- **Sprint Review**:  
+  - Takım olarak görevler başarılı şekilde tamamlandı. Konsept, görev dağılımı, temel mekaniğin yazılması ve Unity proje yapısı gibi kritik adımlar tamamlandı.  
+- **Sprint Retrospective**:  
+  - Herkes rol süreci aktif bir şekilde yönetti hatta rollerimiz dışına çıkılarak ekstra görevler de yapıldı.  
+  - Bir sonraki sprintte teknik detaylar (saldırı sistemleri, pathfinding vb.) öncelik olarak belirlendi.  
+  - Ekip içinde iletişim güçlüydü ve görevler zamanında tamamlandı.
 
 ---
 
