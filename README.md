@@ -24,7 +24,7 @@
 
 ## Oyun Logosu
 
-![OyunLogo](https://github.com/user-attachments/assets/[OYUN_LOGO1_ID]) ![TextLogo](https://github.com/user-attachments/assets/[OYUN_LOGO2_ID])
+![OyunLogo](/photos/game.jpeg)
 
 ## Oyun Açıklaması
 
