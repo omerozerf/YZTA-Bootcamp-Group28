@@ -70,7 +70,7 @@
   - 🎮 *Oyun Konsepti ve Mekanik Fikirleri*, 🔍 *Asset Araştırması*, 📅 *Daily Scrum Planı* - In Progress durumunda işlendi.  
   - 🧠 *Oyun Hikayesi Yazımı*, ✏️ *Karakter ve Ortam Tasarımı (Kağıt Üzerinde)*, ⚙️ *Unity Proje Yapısının Kurulması*, 🛡️ *Temel Kule Mekaniği*, 🧟 *Temel Düşman Hareketi*, ✅ *Task Dağılımı Planı* - Done listesine taşındı.  
 - **Daily Scrum**: Discord üzerinden her akşam 21:00’de gerçekleştirildi.  
-  - 📸 Ekran görüntüleri için: [Daily Scrum Chat Albümü (Imgur)]([https://imgur.com/a/daily-scrum-chats-1-VpkQl6x](https://imgur.com/a/EquKCRM))
+  - 📸 Ekran görüntüleri için: [Daily Scrum Chat Albümü (Imgur)](https://imgur.com/a/EquKCRM)
 - **Sprint board bağlantısı**:  
   🔗 [Sprint 1 - Trello Board](https://trello.com/invite/b/6868dcd924e6f218d86386c4/ATTI17fabb40888a2ac62083c5ae96fd3f6195B10BE3/project)
 - **Sprint board update**:  
