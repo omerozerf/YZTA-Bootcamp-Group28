@@ -4,6 +4,7 @@ public class enemy : MonoBehaviour
 {
     public float speed = 10f;
     public float rotationSpeed = 5f;
+    public float health = 10f;
 
     private Transform target;
     private int wavepointIndex = 0;
@@ -50,5 +51,13 @@ public class enemy : MonoBehaviour
 
         wavepointIndex++;
         target = Waypoints.points[wavepointIndex];
+    }
+
+    public void TakeDamage(float damage)
+    {
+        health -= damage;
+        if (health <= 0){
+            Destroy(gameObject);
+        }
     }
 }
