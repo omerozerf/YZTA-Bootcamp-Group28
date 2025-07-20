@@ -138,7 +138,7 @@
   - ✅ *Task Dağılım Planı*
 
 - **Daily Scrum**: Discord üzerinden her akşam 21:00’de gerçekleştirildi.  
-  - 📸 Ekran görüntüleri için: [Daily Scrum Chat Albümü (Imgur)](https://imgur.com/a/EquKCRM)
+  - 📸 Ekran görüntüleri için: [Daily Scrum Chat Albümü (Imgur)](https://imgur.com/a/yV4t8BR)
 
 - **Sprint board bağlantısı**:  
   🔗 [Sprint 2 - Trello Board](https://trello.com/invite/b/6868dcd924e6f218d86386c4/ATTI17fabb40888a2ac62083c5ae96fd3f6195B10BE3/project)
