@@ -117,3 +117,77 @@
   - Herkes rol süreci aktif bir şekilde yönetti hatta rollerimiz dışına çıkılarak ekstra görevler de yapıldı.  
   - Bir sonraki sprintte teknik detaylar (saldırı sistemleri, pathfinding vb.) öncelik olarak belirlendi.  
   - Ekip içinde iletişim güçlüydü ve görevler zamanında tamamlandı.
+
+---
+
+## Sprint 2
+
+- **Sprint Notları**: Sprint 2’de temel sistemler geliştirilmeye devam edildi. Unity üzerinde mekanik sistemler detaylandırıldı, düşman yapay zekası geliştirildi ve asset entegrasyonları başladı. Ayrıca görev takibi sıklaştırıldı ve görsel tasarımlar dijital ortama taşındı.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100  
+- **Puan tamamlama mantığı**: Her sprint için ortalama 100 puan üzerinden değerlendirme yapılmakta. Sprint 2 bu hedefe ulaşmıştır.  
+
+- **Backlog düzeni ve Story seçimleri**:  
+  - 📦 *Asset Araştırması* - In Progress  
+  - ✅ *Trello Takibi*  
+  - 📅 *Daily Scrum Planı*  
+  - ⚙️ *Unity Mekanik Geliştirme*  
+  - 🔄 *Asset'leri Entegre Etme*  
+  - 🛡️ *Kule Mekaniğini Geliştirme*  
+  - 🧟 *Düşman Mekaniğini Geliştirme*  
+  - ✅ *Task Dağılım Planı*
+
+- **Daily Scrum**: Discord üzerinden her akşam 21:00’de gerçekleştirildi.  
+  - 📸 Ekran görüntüleri için: [Daily Scrum Chat Albümü (Imgur)](https://imgur.com/a/EquKCRM)
+
+- **Sprint board bağlantısı**:  
+  🔗 [Sprint 2 - Trello Board](https://trello.com/invite/b/6868dcd924e6f218d86386c4/ATTI17fabb40888a2ac62083c5ae96fd3f6195B10BE3/project)
+
+- **Sprint board update**:  
+  ![Sprint2 Trello](https://github.com/omerozerf/YZTA-Bootcamp-Group28/blob/main/photos/sprint2/trello.png)
+  (20/07/2025 19:01)
+
+---
+
+### 📸 **Ekran Görüntüleri**
+
+#### ⚙️ Geliştirilmiş Mekanikler
+
+<div align="center">
+
+<img src="https://github.com/omerozerf/YZTA-Bootcamp-Group28/blob/main/photos/sprint2/tower_shooting.gif" width="600"/><br/>
+<i>Tower shooting sistemi</i>
+
+<br/><br/>
+
+<img src="https://github.com/omerozerf/YZTA-Bootcamp-Group28/blob/main/photos/sprint2/mechanics.gif" width="600"/><br/>
+<i>Geliştirilmiş düşman & kule etkileşimi</i>
+
+</div>
+
+---
+
+#### 🎨 Görsel Tasarımlar
+
+<div align="center">
+
+<img src="https://github.com/omerozerf/YZTA-Bootcamp-Group28/blob/main/photos/sprint2/pixel-art-working.png" width="400"/>
+<img src="https://github.com/omerozerf/YZTA-Bootcamp-Group28/blob/main/photos/sprint2/pixel-art-working2.png" width="400"/><br/>
+<i>Çevre ve karakter tasarımlarının dijitalleştirilmesi</i>
+
+<br/><br/>
+
+<img src="https://github.com/omerozerf/YZTA-Bootcamp-Group28/blob/main/photos/sprint2/level-design.jpeg" width="600"/><br/>
+<i>Yeni level design süreci</i>
+
+</div>
+
+---
+
+- **Sprint Review**:  
+  - Unity üzerinde temel mekaniklerin üzerine yenileri eklendi. Düşman hareketi, kule saldırısı gibi sistemler tamamlandı. Pixel art karakter ve çevre tasarımları dijitale aktarıldı.  
+
+- **Sprint Retrospective**:  
+  - Ekip görev paylaşımına sadık kaldı. Görev dağılım planı geliştirildi. İletişim yine güçlüydü. Teknik sorunlar Trello ve Discord üzerinden hızlıca çözüldü. Bir sonraki sprintte optimizasyon, oyun içi UI ve seviye geçiş sistemine ağırlık verilmesi planlanmakta.
+
+
