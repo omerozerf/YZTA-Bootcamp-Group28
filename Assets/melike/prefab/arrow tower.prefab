@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &2937467348384660367
+--- !u!1 &3797131552991331788
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,8 +8,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 3311102388735403607}
-  - component: {fileID: 7504803789034401536}
+  - component: {fileID: 4143749306752697469}
+  - component: {fileID: 2281757338697633705}
   m_Layer: 0
   m_Name: arrow tower
   m_TagString: Untagged
@@ -17,30 +17,30 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &3311102388735403607
+--- !u!4 &4143749306752697469
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2937467348384660367}
+  m_GameObject: {fileID: 3797131552991331788}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.250812, y: 32.330666, z: -112.36581}
+  m_LocalPosition: {x: -13.67417, y: 4.5530014, z: 5.8191724}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 6715995872348204850}
-  - {fileID: 7161074514347572228}
+  - {fileID: 8324453464351395277}
+  - {fileID: 2997839894095586035}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &7504803789034401536
+--- !u!114 &2281757338697633705
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2937467348384660367}
+  m_GameObject: {fileID: 3797131552991331788}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 45b76ffa377eade4e9e429320121d1a7, type: 3}
@@ -48,10 +48,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   towerModel: {fileID: 4570403333728867922, guid: a37c6ef634ed6cb4eb916f2622b45f01, type: 3}
   projectilePrefab: {fileID: 4570403333728867922, guid: a37c6ef634ed6cb4eb916f2622b45f01, type: 3}
-  firePoint: {fileID: 3311102388735403607}
-  range: 15
-  fireRate: 5
---- !u!1 &4431447966199363334
+  firePoint: {fileID: 4143749306752697469}
+  range: 200
+  fireRate: 1
+--- !u!1 &5618944201464749502
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -59,7 +59,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 7161074514347572228}
+  - component: {fileID: 2997839894095586035}
   m_Layer: 0
   m_Name: FirePoint
   m_TagString: Untagged
@@ -67,28 +67,28 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &7161074514347572228
+--- !u!4 &2997839894095586035
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4431447966199363334}
+  m_GameObject: {fileID: 5618944201464749502}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1.145, z: 0.34}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 3311102388735403607}
+  m_Father: {fileID: 4143749306752697469}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &3289360514838359488
+--- !u!1001 &221876011044720447
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 3311102388735403607}
+    m_TransformParent: {fileID: 4143749306752697469}
     m_Modifications:
     - target: {fileID: 8111586957482459890, guid: dd69386000bc3a3498eb2a210ccf366f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -139,8 +139,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd69386000bc3a3498eb2a210ccf366f, type: 3}
---- !u!4 &6715995872348204850 stripped
+--- !u!4 &8324453464351395277 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8111586957482459890, guid: dd69386000bc3a3498eb2a210ccf366f, type: 3}
-  m_PrefabInstance: {fileID: 3289360514838359488}
+  m_PrefabInstance: {fileID: 221876011044720447}
   m_PrefabAsset: {fileID: 0}

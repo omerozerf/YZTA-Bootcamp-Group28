@@ -46,7 +46,7 @@ public class Projectile : MonoBehaviour
     void HitTarget()
     {
         // Çarptığı nesnede Enemy scripti varsa ona hasar ver
-        Enemy enemy = target.GetComponent<Enemy>();
+        enemy enemy = target.GetComponent<enemy>();
         if (enemy != null)
         {
             enemy.TakeDamage(damage);
