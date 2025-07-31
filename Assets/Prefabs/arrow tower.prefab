@@ -49,7 +49,7 @@ MonoBehaviour:
   towerModel: {fileID: 4570403333728867922, guid: a37c6ef634ed6cb4eb916f2622b45f01, type: 3}
   projectilePrefab: {fileID: 4570403333728867922, guid: a37c6ef634ed6cb4eb916f2622b45f01, type: 3}
   firePoint: {fileID: 3311102388735403607}
-  range: 15
+  range: 5
   fireRate: 5
 --- !u!1 &4431447966199363334
 GameObject:

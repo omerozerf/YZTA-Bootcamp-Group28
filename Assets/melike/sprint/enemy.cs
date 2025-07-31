@@ -59,7 +59,9 @@ public class enemy : MonoBehaviour
         if (health <= 0)
         {
             GoldManager.Instance.AddGold(4);
+            Wavespawner.enemiesAlive--;
             Destroy(gameObject);
         }
     }
+
 }
