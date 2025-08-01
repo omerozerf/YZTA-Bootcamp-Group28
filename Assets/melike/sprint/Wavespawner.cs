@@ -26,6 +26,14 @@ public class Wavespawner : MonoBehaviour
 
     public static int enemiesAlive = 0;
 
+    void Awake()
+{
+    Time.timeScale = 1f;
+}
+    void Start()
+    {
+        Time.timeScale = 1f;   
+    }
     void Update()
     {
         if (enemiesAlive > 0 || isSpawning)

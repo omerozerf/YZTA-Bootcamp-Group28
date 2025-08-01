@@ -13,11 +13,13 @@ public class HealthManager : MonoBehaviour
 
     void Awake()
     {
+        Time.timeScale = 1f;
         Instance = this;
     }
 
     void Start()
     {
+        Time.timeScale = 1f;
         currentHealth = maxHealth;
         healthSlider.maxValue = maxHealth;
         healthSlider.value = currentHealth;
@@ -39,7 +41,6 @@ public class HealthManager : MonoBehaviour
     {
         Debug.Log("Game over tetiklendi");
         gameOverPanel.SetActive(true);
-        Time.timeScale = 0f;
     }
 
 /*    void Update()
