@@ -10,28 +10,35 @@ public class GameOverPanelController : MonoBehaviour
 
     private bool panelShown = false;
 
-    public void RestartGame()
+    // Zafere göre paneli göster
+    public void ShowPanel(bool isVictory)
     {
         if (panelShown) return;
 
+        panelShown = true;
+        panel.SetActive(true);
+        victoryText.gameObject.SetActive(isVictory);
+
+        // Eğer butonlar hala basılmıyorsa, şu satırı da dene (gerekirse):
+        // EventSystem.current.SetSelectedGameObject(null);
+    }
+
+    // Oyun yeniden başlatılırken tekrar çağrılmasına gerek yok
+    public void RestartGame()
+    {
         Debug.Log("RestartGame çağrıldı");
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void QuitGame()
     {
-        if (panelShown) return;
-
         Debug.Log("Çık butonu basıldı");
         SceneManager.LoadScene(0); // Ana menü sahnesi index 0
     }
 
-    public void ShowPanel(bool isVictory)
+    // Panel durumu sıfırlamak için eğer ihtiyaç olursa
+    public void ResetPanelState()
     {
-        if (panelShown) return;
-
-        panel.SetActive(true);
-        victoryText.gameObject.SetActive(isVictory);
-        panelShown = true;
+        panelShown = false;
     }
 }
