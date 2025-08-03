@@ -190,4 +190,47 @@
 - **Sprint Retrospective**:  
   - Ekip görev paylaşımına sadık kaldı. Görev dağılım planı geliştirildi. İletişim yine güçlüydü. Teknik sorunlar Trello ve Discord üzerinden hızlıca çözüldü. Bir sonraki sprintte optimizasyon, oyun içi UI ve seviye geçiş sistemine ağırlık verilmesi planlanmakta.
 
+---
 
+# Sprint 3
+
+## Sprint Notları:
+Sprint 3, oyunun final sürümünün oluşturulmasına odaklandı. Önceki sprintlerde geliştirilen tüm sistemler birleştirildi; UI, ses ve görseller tamamlandı. Tanıtım videosu hazırlandı ve proje sunuma uygun hâle getirildi. Görevler Trello üzerinden kartlara ayrılarak takip edildi.
+
+## Sprint içinde tamamlanması tahmin edilen puan:
+*100 Puan*
+
+## Puan tamamlama mantığı:
+Proje toplamda 300 puanlık iş üzerinden planlandı. Sprint 3 için de 100 puanlık iş hedefi belirlendi.
+
+## Backlog düzeni ve Story seçimleri:
+Bu sprintte görevler oyunu "final product" hâline getirmek amacıyla dağıtıldı. Trello üzerinden kartlar oluşturularak görev takibi yapıldı. Yazılım, tasarım, ses ve sunum görevleri bu süreçte paralel şekilde yürütüldü.
+
+## Daily Scrum:
+Whatsapp üzerinden yapıldı. Günlük ilerlemeler, engeller ve ihtiyaç duyulan destekler bu toplantılarda ele alındı.  
+📁 *Sprint 3 - Daily Scrum Chats:* [https://imgur.com/a/Hwfx1DZ](https://imgur.com/a/Hwfx1DZ)
+
+## Sprint board bağlantısı:
+(Buraya Trello linkinizi ekleyin)
+
+## Sprint board update:
+![Sprint Board Görseli](https://imgur.com/linkiniz.png)
+
+- Final sahne entegrasyonu  
+- Kullanıcı arayüzü ve UI detayları  
+- Oynanış videosu kurgu süreci  
+
+📸 *Ekran Görüntüleri* [https://imgur.com/a/zmsuOLb](https://imgur.com/a/zmsuOLb) 
+
+## Sprint Review:
+- Kodlar tek sahnede birleştirildi  
+- Level design tamamlandı  
+- UI sahneye entegre edildi  
+- Telifsiz müzik ve ses efektleri oyuna eklendi  
+- Tanıtım videosu kurgu yazılımında hazırlandı  
+- 100 puanlık sprint hedefi tamamlandı
+
+## Sprint Retrospective:
+- Roller dışında da destek verilerek takım çalışması güçlendirildi  
+- Görevler zamanında ve eksiksiz tamamlandı  
+- Final sunumuna uygun, oynanabilir ve gösterilebilir bir ürün ortaya kondu
