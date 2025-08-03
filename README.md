@@ -234,3 +234,8 @@ Whatsapp üzerinden yapıldı. Günlük ilerlemeler, engeller ve ihtiyaç duyula
 - Roller dışında da destek verilerek takım çalışması güçlendirildi  
 - Görevler zamanında ve eksiksiz tamamlandı  
 - Final sunumuna uygun, oynanabilir ve gösterilebilir bir ürün ortaya kondu
+- 
+## 🎮 Oynanabilir Demo:
+
+👉 [Itch.io'da oynayın!](https://melikedemirkan.itch.io/hold-the-throne)
+
