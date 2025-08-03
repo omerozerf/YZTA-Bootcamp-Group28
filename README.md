@@ -211,10 +211,10 @@ Whatsapp üzerinden yapıldı. Günlük ilerlemeler, engeller ve ihtiyaç duyula
 📁 *Sprint 3 - Daily Scrum Chats:* [https://imgur.com/a/Hwfx1DZ](https://imgur.com/a/Hwfx1DZ)
 
 ## Sprint board bağlantısı:
-(Buraya Trello linkinizi ekleyin)
+[()](https://trello.com/invite/b/6868dcd924e6f218d86386c4/ATTI17fabb40888a2ac62083c5ae96fd3f6195B10BE3/project)
 
 ## Sprint board update:
-![Sprint Board Görseli](https://imgur.com/linkiniz.png)
+![Sprint Board Görseli](https://github.com/omerozerf/YZTA-Bootcamp-Group28/blob/ec899bbe72a9201f64782911d91cb99b381b0191/Assets/photos/trello%20ss.jpg)
 
 - Final sahne entegrasyonu  
 - Kullanıcı arayüzü ve UI detayları  
